@@ -35,9 +35,9 @@
 
 ### 템플릿 / 보일러플레이트
 
-빠른 시작을 위한 프로젝트 골격.
+빠른 시작을 위한 기반 프로젝트 템플릿.
 
-- [gjh999/simple-home-boot](https://github.com/gjh999/simple-home-boot) - eGovFrame 5.0 + Spring Boot·Thymeleaf 심플 홈페이지 출발 코드베이스(JWT·KRDS·내장 HSQLDB).
+- [gjh999/simple-home-boot](https://github.com/gjh999/simple-home-boot) - eGovFrame 5.0 + Spring Boot·Thymeleaf 심플 홈페이지 출발 코드베이스(JWT·내장 HSQLDB).
 
 ### 개발 도구
 

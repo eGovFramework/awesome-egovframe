@@ -111,7 +111,7 @@ Tap 저장소입니다.
 #### 관련 저장소
 
 - **원 저장소 (개인 개발)**: [leejongyoung/homebrew-egovframe](https://github.com/leejongyoung/homebrew-egovframe)
-- **공식 편입 저장소**: [eGovFramework/homebrew-egovframe](https://github.com/eGovFramework/homebrew-egovframe)
+- **공식 편입 저장소 (Fork)**: [eGovFramework/homebrew-egovframe](https://github.com/eGovFramework/homebrew-egovframe)
 - **Homebrew 공식 저장소 (표준프레임워크 맥용 개발환경)**: [Homebrew/homebrew-cask — egovframedev.rb](https://github.com/Homebrew/homebrew-cask/blob/main/Casks/e/egovframedev.rb)
 
 ### 이 사례에서 시사 점

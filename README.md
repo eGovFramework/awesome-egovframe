@@ -31,6 +31,7 @@
 
 표준프레임워크에 끼워 쓸 수 있는 컴포넌트.
 
+- [dasomel/egovframe-boot-starter-ai](https://github.com/dasomel/egovframe-boot-starter-ai) - Spring AI 기반 공공서비스용 횡단관심사(개인정보 마스킹·보안 가드레일·감사 로그·예외 폴백 등) 자동 구성 스타터.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 템플릿 / 보일러플레이트

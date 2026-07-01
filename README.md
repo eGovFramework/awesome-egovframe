@@ -25,6 +25,7 @@
 
 ### 실행환경 / 런타임
 
+- [dasomel/egovframe-boot-starter-observability](https://github.com/dasomel/egovframe-boot-starter-observability) - MyBatis 계측·Log4j2 추적 상관관계·HikariCP 메트릭을 자동 배선하는 관측성 스타터.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 공통 컴포넌트 / 확장 모듈

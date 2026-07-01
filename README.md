@@ -47,6 +47,7 @@
 
 ### 통합 / 연동
 
+- [dasomel/egovframe-boot-starter-opendata](https://github.com/dasomel/egovframe-boot-starter-opendata) - 공공데이터포털(data.go.kr) 스타일 오픈API 호출을 표준화하는 Spring Boot 자동구성 스타터.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 샘플 / 예제 프로젝트

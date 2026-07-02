@@ -31,6 +31,7 @@
 
 표준프레임워크에 끼워 쓸 수 있는 컴포넌트.
 
+- [dasomel/egovframe-boot-starter-korean-crypto](https://github.com/dasomel/egovframe-boot-starter-korean-crypto) - KISA 국산 표준 블록암호(SEED, LEA)를 BouncyCastle로 감싼 Spring Boot 자동구성 스타터. RTE가 지원하지 않는 SEED·LEA를 서비스 빈으로 바로 사용할 수 있게 해준다.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 템플릿 / 보일러플레이트

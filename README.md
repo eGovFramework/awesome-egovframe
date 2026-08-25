@@ -41,6 +41,9 @@
 빠른 시작을 위한 기반 프로젝트 템플릿.
 
 - [gjh999/simple-home-boot](https://github.com/gjh999/simple-home-boot) - eGovFrame 5.0 + Spring Boot·Thymeleaf 심플 홈페이지 출발 코드베이스(JWT·내장 HSQLDB).
+- [gjh999/egov-simple-api](https://github.com/gjh999/egov-simple-api) - eGovFrame 5.0 심플 홈페이지 REST API 백엔드(Thymeleaf 미포함), React·Vue 프론트 저장소를 함께 제공(egov 5.x).
+- [gjh999/egov-portal-api](https://github.com/gjh999/egov-portal-api) - eGovFrame 5.0 포털사이트를 REST API + SPA로 재구성한 백엔드, React·Vue 프론트 저장소를 함께 제공(egov 5.x).
+- [gjh999/egov-biz-api](https://github.com/gjh999/egov-biz-api) - eGovFrame 5.0 기업업무 템플릿을 REST API + SPA로 재구성한 백엔드, React·Vue 프론트 저장소를 함께 제공(egov 5.x).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 개발 도구

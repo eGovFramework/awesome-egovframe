@@ -33,6 +33,7 @@
 표준프레임워크에 끼워 쓸 수 있는 컴포넌트.
 
 - [gjh999/common-components-boot](https://github.com/gjh999/common-components-boot) - eGovFrame 5.0 공통 컴포넌트(회원·게시판·코드·권한 등)를 Spring Boot 3.5 + Thymeleaf로 전환한 프로젝트.
+- [dasomel/egovframe-boot-starter-ai](https://github.com/dasomel/egovframe-boot-starter-ai) - Spring AI 기반 공공서비스용 횡단관심사(개인정보 마스킹·보안 가드레일·감사 로그·예외 폴백 등) 자동 구성 스타터.
 - [dasomel/egovframe-boot-starter-korean-crypto](https://github.com/dasomel/egovframe-boot-starter-korean-crypto) - KISA 국산 표준 블록암호(SEED, LEA)를 BouncyCastle로 감싼 Spring Boot 자동구성 스타터. RTE가 지원하지 않는 SEED·LEA를 서비스 빈으로 바로 사용할 수 있게 해준다.
 - [dasomel/egovframe-boot-starter-access-log](https://github.com/dasomel/egovframe-boot-starter-access-log) - 개인정보 처리 메서드에 어노테이션만 붙이면 접속기록(계정·접속일시·IP·정보주체·수행업무)을 해시체인 기반 위변조 방지와 함께 자동 적재하는 Spring Boot 자동구성 스타터.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*

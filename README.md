@@ -44,6 +44,7 @@
 
 - [gjh999/egov-biz-api](https://github.com/gjh999/egov-biz-api) - eGovFrame 5.0 기업업무 템플릿을 REST API로 재구성한 백엔드(업무사용자·공통코드·메뉴·로그·통계), React·Vue 프론트와 공용(egov 5.x).
 - [gjh999/egov-biz-react](https://github.com/gjh999/egov-biz-react) - eGovFrame 5.0 기업업무 템플릿 React 19 + TypeScript 프론트엔드, 관리자 화면 26종 포함(egov 5.x).
+- [gjh999/egov-biz-vue](https://github.com/gjh999/egov-biz-vue) - eGovFrame 5.0 기업업무 템플릿 Vue 3 + TypeScript 프론트엔드, 관리자 화면 26종 포함(egov 5.x).
 - [gjh999/egov-portal-api](https://github.com/gjh999/egov-portal-api) - eGovFrame 5.0 포털사이트를 REST API로 재구성한 백엔드(게시판·FAQ·Q&A·설문·약관·권한), React·Vue 프론트와 공용(egov 5.x).
 - [gjh999/egov-portal-react](https://github.com/gjh999/egov-portal-react) - eGovFrame 5.0 포털사이트 React 19 + TypeScript 프론트엔드, 관리자 화면 17종 포함(egov 5.x).
 - [gjh999/egov-portal-vue](https://github.com/gjh999/egov-portal-vue) - eGovFrame 5.0 포털사이트 Vue 3 + TypeScript 프론트엔드, 관리자 화면 17종 포함(egov 5.x).
@@ -51,15 +52,14 @@
 - [gjh999/egov-simple-react](https://github.com/gjh999/egov-simple-react) - eGovFrame 5.0 심플 홈페이지 React 19 + TypeScript 프론트엔드, KRDS 디자인 적용(egov 5.x).
 - [gjh999/egov-simple-vue](https://github.com/gjh999/egov-simple-vue) - eGovFrame 5.0 심플 홈페이지 Vue 3 + TypeScript 프론트엔드, KRDS 디자인 적용(egov 5.x).
 - [gjh999/simple-home-boot](https://github.com/gjh999/simple-home-boot) - eGovFrame 5.0 + Spring Boot·Thymeleaf 심플 홈페이지 출발 코드베이스(JWT·내장 HSQLDB).
-- [gjh999/egov-biz-vue](https://github.com/gjh999/egov-biz-vue) - eGovFrame 5.0 기업업무 템플릿 Vue 3 + TypeScript 프론트엔드, 관리자 화면 26종 포함(egov 5.x).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 개발 도구
 
+- [dasomel/egovframe-boot-starter-rag-eval](https://github.com/dasomel/egovframe-boot-starter-rag-eval) - LLM 채점 없이 결정적으로 재현 가능한 RAG 평가 하네스(recall@K·precision@K·MRR + 토큰 커버리지 기반 faithfulness). JUnit5/AssertJ와 선택적 Spring AI 연동.
 - [dasomel/egovframe-launcher](https://github.com/dasomel/egovframe-launcher) - 표준프레임워크 예제 프로젝트를 VSCode에서 빌드·Tomcat/Docker 연동 기동·디버깅하는 Go 기반 GUI 런처 및 CLI 스크립트 툴킷.
 - [EricSeokgon/egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) - 표준프레임워크 공식 템플릿으로 신규 프로젝트를 생성하는 MCP 서버, AI 코딩 에이전트에서 사용(egov 5.x).
 - [gjh999/egov-support-skill](https://github.com/gjh999/egov-support-skill) - eGovFrame 5.0 Spring Boot·KRDS 개발용 AI 코딩 에이전트 스킬 모음(Claude·Codex·Cursor).
-- [dasomel/egovframe-boot-starter-rag-eval](https://github.com/dasomel/egovframe-boot-starter-rag-eval) - LLM 채점 없이 결정적으로 재현 가능한 RAG 평가 하네스(recall@K·precision@K·MRR + 토큰 커버리지 기반 faithfulness). JUnit5/AssertJ와 선택적 Spring AI 연동.
 - [leejongyoung/homebrew-egovframe](https://github.com/leejongyoung/homebrew-egovframe) - 표준프레임워크 macOS 개발환경 설치용 Homebrew Tap (이후 공식 편입, 위 [기여 사례](#-커뮤니티-기여-사례) 참고).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 

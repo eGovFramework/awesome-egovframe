@@ -47,6 +47,7 @@
 - [gjh999/egov-simple-react](https://github.com/gjh999/egov-simple-react) - eGovFrame 5.0 심플 홈페이지 React 19 + TypeScript 프론트엔드, KRDS 디자인 적용(egov 5.x).
 - [gjh999/egov-simple-vue](https://github.com/gjh999/egov-simple-vue) - eGovFrame 5.0 심플 홈페이지 Vue 3 + TypeScript 프론트엔드, KRDS 디자인 적용(egov 5.x).
 - [gjh999/simple-home-boot](https://github.com/gjh999/simple-home-boot) - eGovFrame 5.0 + Spring Boot·Thymeleaf 심플 홈페이지 출발 코드베이스(JWT·내장 HSQLDB).
+- [gjh999/egov-portal-react](https://github.com/gjh999/egov-portal-react) - eGovFrame 5.0 포털사이트 React 19 + TypeScript 프론트엔드, 관리자 화면 17종 포함(egov 5.x).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 개발 도구

@@ -47,6 +47,7 @@
 
 ### 개발 도구
 
+- [dasomel/egovframe-launcher](https://github.com/dasomel/egovframe-launcher) - 표준프레임워크 예제 프로젝트를 VSCode에서 빌드·Tomcat/Docker 연동 기동·디버깅하는 Go 기반 GUI 런처 및 CLI 스크립트 툴킷.
 - [EricSeokgon/egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) - 표준프레임워크 공식 템플릿으로 신규 프로젝트를 생성하는 MCP 서버, AI 코딩 에이전트에서 사용(egov 5.x).
 - [gjh999/egov-support-skill](https://github.com/gjh999/egov-support-skill) - eGovFrame 5.0 Spring Boot·KRDS 개발용 AI 코딩 에이전트 스킬 모음(Claude·Codex·Cursor).
 - [dasomel/egovframe-boot-starter-rag-eval](https://github.com/dasomel/egovframe-boot-starter-rag-eval) - LLM 채점 없이 결정적으로 재현 가능한 RAG 평가 하네스(recall@K·precision@K·MRR + 토큰 커버리지 기반 faithfulness). JUnit5/AssertJ와 선택적 Spring AI 연동.

@@ -60,6 +60,7 @@
 - [dasomel/egovframe-launcher](https://github.com/dasomel/egovframe-launcher) - 표준프레임워크 예제 프로젝트를 VSCode에서 빌드·Tomcat/Docker 연동 기동·디버깅하는 Go 기반 GUI 런처 및 CLI 스크립트 툴킷.
 - [EricSeokgon/egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) - 표준프레임워크 공식 템플릿으로 신규 프로젝트를 생성하는 MCP 서버, AI 코딩 에이전트에서 사용(egov 5.x).
 - [gjh999/egov-support-skill](https://github.com/gjh999/egov-support-skill) - eGovFrame 5.0 Spring Boot·KRDS 개발용 AI 코딩 에이전트 스킬 모음(Claude·Codex·Cursor).
+- [leejongyoung/egovframe-badge](https://github.com/leejongyoung/egovframe-badge) - 표준프레임워크 프로젝트 README에 쓸 수 있는 재사용 가능한 SVG 배지 생성기, raw URL 한 줄로 참조하며 5가지 스타일을 지원한다.
 - [leejongyoung/egovframe-chocolatey](https://github.com/leejongyoung/egovframe-chocolatey) - 표준프레임워크 Windows 개발환경 설치용 Chocolatey 패키지(choco install egovframe, egov 4.3.1).
 - [leejongyoung/homebrew-egovframe](https://github.com/leejongyoung/homebrew-egovframe) - 표준프레임워크 macOS 개발환경 설치용 Homebrew Tap (이후 공식 편입, 위 [기여 사례](#-커뮤니티-기여-사례) 참고).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*

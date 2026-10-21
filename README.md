@@ -61,6 +61,7 @@
 - [EricSeokgon/egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) - 표준프레임워크 공식 템플릿으로 신규 프로젝트를 생성하는 MCP 서버, AI 코딩 에이전트에서 사용(egov 5.x).
 - [gjh999/egov-support-skill](https://github.com/gjh999/egov-support-skill) - eGovFrame 5.0 Spring Boot·KRDS 개발용 AI 코딩 에이전트 스킬 모음(Claude·Codex·Cursor).
 - [leejongyoung/egovframe-badge](https://github.com/leejongyoung/egovframe-badge) - 표준프레임워크 프로젝트 README에 쓸 수 있는 재사용 가능한 SVG 배지 생성기, raw URL 한 줄로 참조하며 5가지 스타일을 지원한다.
+- [leejongyoung/egovframe-chocolatey](https://github.com/leejongyoung/egovframe-chocolatey) - 표준프레임워크 Windows 개발환경 설치용 Chocolatey 패키지(choco install egovframe, egov 4.3.1).
 - [leejongyoung/homebrew-egovframe](https://github.com/leejongyoung/homebrew-egovframe) - 표준프레임워크 macOS 개발환경 설치용 Homebrew Tap (이후 공식 편입, 위 [기여 사례](#-커뮤니티-기여-사례) 참고).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
@@ -75,6 +76,7 @@
 
 - [gjh999/enterprise-biz-boot](https://github.com/gjh999/enterprise-biz-boot) - 전자정부 표준프레임워크 5.0 기업업무 관리자 콘솔(코드·메뉴·프로그램·로그·통계)을 Spring Boot+Thymeleaf로 구현한 예제.
 - [gjh999/portal-site-boot](https://github.com/gjh999/portal-site-boot) - eGovFrame 5.0 포털사이트를 Spring Boot 3.5 + Thymeleaf로 전환한 참조 프로젝트.
+- [SEOUL-raphael/egovframe-wiki-rag](https://github.com/SEOUL-raphael/egovframe-wiki-rag) - eGovFrame 5.0·Spring AI 기반 위키 컴파일·편집·발행·검색·답변 CLI 예제.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ## ■ 학습 자료
